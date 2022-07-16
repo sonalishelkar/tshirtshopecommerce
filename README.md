@@ -14,4 +14,4 @@ checkout page fill information than go to payment option
 payment
 ![screencapture-test-instamojo-sonalishelkar8-473ead563e4549de915ff3d925a2e622-2022-07-16-17_09_44](https://user-images.githubusercontent.com/98012257/179354111-8d71e308-e08e-4c70-9dde-7f9b5d973404.png)
 payment successfull
-![2022-07-16](https://user-images.githubusercontent.com/98012257/179354144-97bfbd99-f5af-4549-a0ba-cafa68eb0b6b.png)
+![2022-07-16f](https://user-images.githubusercontent.com/98012257/179354215-2ad3b822-cae9-4863-a99f-f3befacd7b9d.png)
